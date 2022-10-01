@@ -5,6 +5,13 @@ AI dashboard for Physical Surveillance (and Security)
 # TODO
 
 ### AI components/APIs
+
+High-level:
+- [ ] Face Detection
+- [ ] Object Detection
+- [ ] Pose Detection
+
+Detailed:
 - [ ] Frame-wise Captioning (Image Captioning)
 - [ ] Video Summary
 - [ ] Video Highlights
