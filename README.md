@@ -1,6 +1,5 @@
 # SurveillanceOne
-AI dashboard for Physical Surveillance (and Security)
-
+AI powered dashboard for Physical Surveillance (and Security)
 
 # TODO
 
